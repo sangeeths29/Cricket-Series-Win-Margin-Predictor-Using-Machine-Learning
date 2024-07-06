@@ -10,7 +10,7 @@ In this project, I aim to predict the team which wins future cricket series base
 
 # Steps Taken
 ## Step 1 - Future Men's Matches DataFrame Creation
-In this step, I took the confiremd future men's matches schedule from ESPNcricinfo and used the Pandas library to convert it into a dataframe followed by converting it into a CSV for using for future predictions.
+In this step, I took the confirmed future men's matches schedule from ESPNcricinfo and used the Pandas library to convert it into a dataframe followed by converting it into a CSV for using for future predictions.
 
 ## Step 2 - Loading the Datasets
 I loaded the historical odi, tests and t20 dataset along with future men's matches dataset which was created in the previous step.
